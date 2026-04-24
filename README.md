@@ -72,7 +72,7 @@ Busca de livros por título
 Controle de estoque
 Edição de livros
 Remoção de livros
-## Baica Prioridade
+## Baixa Prioridade
 Cadastro de categorias
 Busca por autor
 Carrinho de compras
@@ -86,7 +86,7 @@ Por último, funcionalidades mais avançadas como compra e carrinho, pois depend
 ## Sprint Planning
 
 # Duração da Sprint:
-2 semanas
+- 2 semanas
 
 ## Itens escolhidos:
 
