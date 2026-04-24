@@ -65,18 +65,18 @@ Resultado final da Sprint, ou seja, uma versão funcional do sistema.
 
 ## Priorização
 ## Alta Prioridade
-Cadastro de livros
-Listagem de livros
-Busca de livros por título
+- Cadastro de livros
+- Listagem de livros
+- Busca de livros por título
 ## Média Prioridade
-Controle de estoque
-Edição de livros
-Remoção de livros
+- Controle de estoque
+- Edição de livros
+- Remoção de livros
 ## Baixa Prioridade
-Cadastro de categorias
-Busca por autor
-Carrinho de compras
-Finalização de compra
+- Cadastro de categorias
+- Busca por autor
+- Carrinho de compras
+- Finalização de compra
 
 ## Por que essa ordem?
 - As funcionalidades básicas vêm primeiro para garantir que o sistema funcione (cadastrar, listar e buscar livros).
